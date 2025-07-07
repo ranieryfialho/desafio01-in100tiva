@@ -26,5 +26,28 @@ Este projeto demonstra o uso do CSS Grid para criar uma galeria de imagens com l
 ## 📁 Estrutura do Projeto
 
 ```
-galeria-3x3/ │ ├── index.html # Estrutura HTML principal ├── style.css # Estilos CSS └── README.md # Documentação do projeto
+galeria-3x3/
+│
+├── index.html          # Estrutura HTML principal
+├── style.css           # Estilos CSS
+└── README.md          # Documentação do projeto
 ```
+
+## 🚀 Como Executar
+
+### 1. **Clone ou baixe o projeto**
+   ```bash
+   git clone https://github.com/seu-usuario/galeria-3x3.git
+````
+   
+### 2. **Navegue até o diretório
+   
+```
+cd galeria-3x3
+```
+
+### 3. Abra o arquivo HTML
+
+- Duplo clique no index.html
+- Ou abra com seu navegador preferido
+- Ou use um servidor local (Live Server, etc.)=
